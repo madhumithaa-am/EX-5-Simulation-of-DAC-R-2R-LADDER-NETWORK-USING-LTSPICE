@@ -29,9 +29,13 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-30 at 8 39 29 AM](https://github.com/user-attachments/assets/d5f12945-c9ce-4c05-b28e-bfe8c866e4db)
+
 
 
 ---
 ##RESULT:
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
+![WhatsApp Image 2026-03-30 at 8 41 43 AM](https://github.com/user-attachments/assets/9168c3ae-ad24-41b4-846b-f831a64c93fa)
+**
 ---
